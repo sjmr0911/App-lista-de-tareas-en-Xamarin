@@ -1,0 +1,16 @@
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\bin\Debug\netstandard2.0\App_Listas de tareas.deps.json
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\bin\Debug\netstandard2.0\App_Listas de tareas.dll
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\bin\Debug\netstandard2.0\ref\App_Listas de tareas.dll
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\bin\Debug\netstandard2.0\App_Listas de tareas.pdb
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\App_Listas de tareas.csproj.AssemblyReference.cache
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\App_Listas de tareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\AgregarEditarTareaPage.xaml.g.cs
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\App_Listas de tareas.AssemblyInfoInputs.cache
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\App_Listas de tareas.AssemblyInfo.cs
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\App_Listas de tareas.csproj.CoreCompileInputs.cache
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\App_Listas de tareas.dll
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\refint\App_Listas de tareas.dll
+C:\Users\Starlyn_mateo\source\repos\App_Listas de tareas\App_Listas de tareas\obj\Debug\netstandard2.0\App_Listas de tareas.pdb

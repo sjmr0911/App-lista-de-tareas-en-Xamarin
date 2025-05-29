@@ -1,0 +1,11 @@
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoApp.AgregarEditarTareaPage"
+             Title="Editar Tarea">
+    <StackLayout Padding="10">
+        <Entry x:Name="NombreEntry" Placeholder="Nombre" />
+        <Editor x:Name="DescripcionEntry" Placeholder="Descripción" HeightRequest="100" />
+        <Button Text="Guardar" Clicked="OnGuardarClicked" />
+        <Button Text="Eliminar" Clicked="OnEliminarClicked" IsVisible="False" x:Name="EliminarBtn" TextColor="Red" />
+    </StackLayout>
+</ContentPage>
